@@ -1,7 +1,7 @@
 const https = require('https');
 const { URL } = require('url');
 
-const endpoint = 'https://doh.cmliussss.hidns.co/CMLiussss';
+const endpoint = 'https://dns.longnn.de5.net/CMLiussss';
 const testDomain = 'google.com';  // 要测试解析的域名
 
 function base64url(buf) {
