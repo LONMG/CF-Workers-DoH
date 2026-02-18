@@ -1,0 +1,5 @@
+{
+  "name": "dnsdoh",
+  "compatibility_date": "2026-02-18",
+  "main": "_worker.js"
+}
